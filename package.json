@@ -1,0 +1,12 @@
+{
+  "name": "track-it",
+  "version": "1.0.0",
+  "description": "A software that tracks the price of different products from different websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
